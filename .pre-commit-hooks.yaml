@@ -1,0 +1,8 @@
+- id: shport
+  name: shport shell portability
+  description: Check literal external utility invocations for known cross-userland incompatibilities.
+  entry: shport
+  language: golang
+  types:
+    - shell
+  pass_filenames: true
