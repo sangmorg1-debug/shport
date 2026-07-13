@@ -1,0 +1,7 @@
+/shport
+/shport.exe
+/bin/
+/dist/
+/coverage.out
+*.sarif
+*.tmp
